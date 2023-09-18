@@ -1,0 +1,12 @@
+{
+  "name": "dependencias_tp6",
+  "version": "1.0.0",
+  "description": "Ejercicios de node.js del tp6",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scheiber Paula",
+  "license": "ISC"
+}
